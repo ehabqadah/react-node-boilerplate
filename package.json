@@ -1,0 +1,26 @@
+{
+  "name": "react-node-boilerplate",
+  "version": "0.0.0",
+  "description": "this starter react and node project for self learning ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ehabqadah/react-node-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "nodejs",
+    "starter",
+    "boilerplate",
+    "ehabqadah"
+  ],
+  "author": "Ehab Qadah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehabqadah/react-node-boilerplate/issues"
+  }
+}
