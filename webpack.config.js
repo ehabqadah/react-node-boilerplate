@@ -1,9 +1,9 @@
 var config = {
-   entry: './client/js/main.js',
+   entry: './client/src/js/main.js',
 	
    output: {
       path:'./_out/',
-      filename: 'index.js',
+      filename: 'static/index.js',
    },
 	
    devServer: {
