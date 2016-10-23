@@ -7,7 +7,7 @@ class App extends React.Component
 	render(){
 
 			return (
-					<div> Main APP component </div>
+					<div  className="alert alert-success" role="alert"> Main APP component </div>
 					);
 			}
 }
